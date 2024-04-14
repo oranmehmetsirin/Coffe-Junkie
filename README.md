@@ -7,3 +7,5 @@ An example of a cafe website that includes gifs, a hamburger menu, features such
 The project was created using HTML, CSS and JavaScript.
 
 You can view the visual of the project, where every detail has been considered, below.
+
+![Animation](https://github.com/oranmehmetsirin/Coffe-Junkie/blob/main/gif.gif?raw=true)
